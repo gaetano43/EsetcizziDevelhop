@@ -6,7 +6,7 @@ package com.biblioteca.main;
 import com.biblioteca.model.Libro;
 
 import java.util.Arrays;
-public class Main {
+public class main {
     public static void main(String[] args) {
         Libro libro1 =new Libro("Quello che so di te", "Nadia Terranova", 2025,  9788823521234L);
         Libro libro2 = new Libro("Fratellino" ,"di Ibrahima Balde e Amets",2025,  9788807895678L);
