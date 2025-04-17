@@ -1,11 +1,9 @@
-package esercizio;
-
 import java.time.OffsetDateTime;
 import java.time.format.TextStyle;
 import java.time.format.DateTimeParseException;
 import java.util.Locale;
 
-public class data3 {
+public class Data3 {
     public static void main(String[] args) {
         try {
             // Parsing della stringa ISO 8601 in un oggetto OffsetDateTime
